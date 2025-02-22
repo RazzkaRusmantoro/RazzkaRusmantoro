@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! I'm Razzka Rusmantoro :D
 
-<!--
-**RazzkaRusmantoro/RazzkaRusmantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Developer | AI & ML Enthusiast | Full-Stack Builder  
 
-Here are some ideas to get you started:
+I love creating intelligent systems, scalable web apps, and AI-driven solutions. From front-end design to back-end architecture, I build with:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:
+- **Languages**: Python, JavaScript, HTML, CSS, Java  
+- **Web Development**: Node.js, Next.js, React.js  
+- **Machine Learning**: PyTorch  
+- **Backend & Databases**: Express.js, MongoDB, PostgreSQL  
+- **Other Tools**: Git, Docker, REST APIs  
+
+---
